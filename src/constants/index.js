@@ -20,45 +20,30 @@ active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using 
-    JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated 
-    with MongoDB databases. Collaborated with stakeholders to define project 
-    requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "2024 - Present",
+    role: "Full Stack Developer (Student)",
+    company: "Self-Learning / Personal Projects",
+    description: `Focused on mastering advanced Data Structures and Algorithms (DSA) using Python, 
+    with an emphasis on time and space complexity analysis. Developed several full-stack web applications 
+    using the MERN stack (MongoDB, Express.js, React.js, Node.js), and integrated modern styling practices 
+    with Tailwind CSS. Built RESTful APIs, implemented authentication, and worked with relational databases 
+    using MySQL. Continuously refining coding skills and exploring backend optimization techniques.`,
+    technologies: ["Python", "Advance_Dsa", "React.js", "Node.js", "Express.js", "Tailwind_CSS", "MySQL", "Firebase"],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using 
-    Next.js and React. Worked closely with backend developers to integrate frontend 
-    components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  },
-  {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, 
-    React.js, and Node.js. Designed and implemented RESTful APIs for data 
-    communication. Collaborated with cross-functional teams to deliver 
-    high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using 
-    JavaScript, React.js, and Node.js. Managed databases and implemented 
-    data storage solutions using MongoDB. Worked closely with product 
-    managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "2023 - 2024",
+    role: "Web Developer (Student)",
+    company: "University Coursework / Self-Learning",
+    description: `Initiated journey into software development during the first year of B.Tech in Computer Science and 
+    Artificial Intelligence. Gained foundational knowledge in Python programming, along with front-end 
+    technologies like HTML, CSS, and JavaScript. Created static websites and simple interactive projects. 
+    Explored basic data structures like arrays, stacks, queues, and linked lists, laying a strong base 
+    for deeper algorithmic understanding. Participated in coding practice sessions and contributed to 
+    peer learning initiatives.`,
+    technologies: ["Python", "Dsa", "HTML", "CSS", "JavaScript", "Git", "GitHub", "Postman", "Figma"],
   },
 ];
+
 
 export const PROJECTS = [
   {
