@@ -2,6 +2,7 @@ import project1 from "../assets/projects/wordFlow.png";
 import project2 from "../assets/projects/quizGame.png";
 import project3 from "../assets/projects/project-3.webp";
 import project4 from "../assets/projects/netflix.png";
+import project5 from "../assets/projects/LLMStudio.png";
 
 export const HERO_CONTENT = `Hi I'm a second year Undergraduate student currently pursuing Computer 
 Science and Airtificial Intelligence. I am a passionate full stack developer with a knack for crafting 
@@ -57,6 +58,15 @@ export const PROJECTS = [
     links: ["https://word-flow.vercel.app/demo", "https://github.com/sourabh14022004/Word-Flow"],
   },
   {
+    title: "LLMStudio",
+    image: project5,
+    description:
+      "My first ChatBot project using LLMs, where users can interact with a chatbot powered by large language models.",
+    technologies: ['React','WebLLM' , "Tailwind CSS", "Vercel deploy", "vanilla CSS"],
+    about : ["View live", "View code"],
+    links: ["https://llm-studio-pi.vercel.app/", "https://github.com/sourabh14022004/LLMStudio"],
+  },
+  {
     title: "Amazing Quiz App",
     image: project2,
     description:
@@ -66,15 +76,6 @@ export const PROJECTS = [
     links: ["https://sourabh14022004.github.io/Amazing-Quiz-App/", "https://github.com/sourabh14022004/Amazing-Quiz-App"],
   },
   {
-    title: "Portfolio Website",
-    image: project3,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Tailwind CSS"],
-    about : ["View live", "View code"],
-    links: ["https://word-flow.vercel.app/demo", "https://github.com/sourabh14022004/Word-Flow"],
-  },
-  {
     title: "Netflix Clone",
     image: project4,
     description:
@@ -82,7 +83,7 @@ export const PROJECTS = [
     technologies: ['React', "Tailwind CSS", "TMDB API", "Vercel deploy", "Firebase", "vanilla CSS"],
     about : ["View live", "View code"],
     links: ["https://netflix-clone-check-bi91itkoy-sourabh14022004s-projects.vercel.app/", "https://github.com/sourabh14022004/Netflix.clone"],
-  },
+  }, 
 ];
 
 export const CONTACT = {
